@@ -46,7 +46,6 @@
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="MessagePack" Type="Packed Library">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{A9829513-7DD7-4819-8C06-58892CAC64AA}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">MessagePack</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -56,7 +55,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{02F363F5-DC31-4891-9716-6100E27307A5}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MessagePack.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/MessagePack/NI_AB_PROJECTNAME/MessagePack.lvlibp</Property>
@@ -66,7 +65,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/MessagePack/NI_AB_PROJECTNAME</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{237BBC35-AFC7-4B8A-AA6D-64F788397C27}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F672E831-0DFD-4582-9424-02E502C8FCA2}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/MsgPack.lvlib</Property>
