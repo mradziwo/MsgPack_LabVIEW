@@ -65,7 +65,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/MessagePack/NI_AB_PROJECTNAME</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F672E831-0DFD-4582-9424-02E502C8FCA2}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{64240EF5-6EF9-45CA-B370-C0D47A77ED3C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/MsgPack.lvlib</Property>
